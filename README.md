@@ -22,4 +22,5 @@ Olá eu sou o Murilo Henrique, sou aluno da Staart!
  
  - Twitter: @muriloholiveira
  - Github: @murilodioliveira
+ - LinkedIn: linkedin.com/in/murilodioliveira/
  - Email: murilodioliveira@gmail.com
