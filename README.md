@@ -4,7 +4,7 @@ Olá eu sou o Murilo Henrique, sou aluno da Staart!
 
 ![gitAvatar](https://user-images.githubusercontent.com/43011466/173669635-6ff17257-4563-4715-b5ab-714824a6ceb3.png)
 
-## Moro em Parauapebas/PA 🌎
+Moro em Parauapebas/PA 🌎
 
 ## Meus hobbies
 
