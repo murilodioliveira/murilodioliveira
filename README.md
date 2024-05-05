@@ -2,7 +2,13 @@
  <img src="https://media.licdn.com/dms/image/D4D03AQH2ShJq3l3-9Q/profile-displayphoto-shrink_800_800/0/1708786341367?e=1720051200&v=beta&t=540sZ50FfHyapD9omT5hcu6A1K74Lk3QCGtp0JgfpH4" width=75px>
 
 Olá eu sou o Murilo Henrique !
+
+Sou Engenheiro Eletricista em constante evolução !
+
 Moro em Parauapebas/PA 🌎
+
+## Meus Objetivos
+- Me tornar um Engenheiro de Automação e Controle
 
 ## Meus hobbies
 
