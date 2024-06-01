@@ -17,11 +17,18 @@ Moro em Parauapebas/PA 🌎
  - Mecânica
  - Tocar guitarra
  
- ## Atualmente estudando
-  - <img src="https://img-c.udemycdn.com/course/750x422/3911414_02be_3.jpg" alt="SQL" width=100px align=center>
-  - <img src="https://i.pinimg.com/originals/82/a2/18/82a2188c985ce75402ae44fc43fe7e5e.png" alt="Python" width=100px align=center>
- 
- ## Contatos
+## Atualmente estudando
+
+  - <img src="https://img-c.udemycdn.com/course/750x422/3911414_02be_3.jpg" width="100" align="center" style="margin-bottom:5px"/>
+  - <img src="https://i.pinimg.com/originals/82/a2/18/82a2188c985ce75402ae44fc43fe7e5e.png" width="100" align="center" style="margin-bottom:5px"/>
+  - <img src="https://images.convertbox.com/users/1647/33459019906c97427dedeff193ed18ef.JPG" width="100" align="center" style="margin-bottom:5px"/>
+  - <img src="https://portalerp.com/images/2021/03/17/sap-ag-logogif.gif" width="100" align="center" style="margin-bottom:5px"/>   
+
+## Cursos concluídos
+  ###### <a href="./images/Certificado - SQL Formação Básica.jpg" target="blank"><img src="./images/Certificado - SQL Formação Básica.jpg" width="200" align="center"></a> SQL Server 2019: Formação Básica
+  ###### <a href="./images/Curso SAP.png" target="blank"><img src="./images/Curso SAP.png" width="200" align="center"></a> SAP: Primeiros Passos
+  
+## Contatos
  
  - Github: [@murilodioliveira](https://github.com/murilodioliveira)
  - LinkedIn: [linkedin.com/in/murilodioliveira](linkedin.com/in/murilodioliveira)
