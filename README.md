@@ -25,9 +25,9 @@ Moro em Parauapebas/PA 🌎
   - <img src="https://portalerp.com/images/2021/03/17/sap-ag-logogif.gif" width="100" align="center" style="margin-bottom:5px"/>   
 
 ## Cursos concluídos
-  ###### <a href="./images/Certificado - SQL Formação Básica.jpg" target="blank"><img src="./images/Certificado - SQL Formação Básica.jpg" width="200" align="center"></a> SQL Server 2019: Formação Básica
-  ###### <a href="./images/Curso SAP.png" target="blank"><img src="./images/Curso SAP.png" width="200" align="center"></a> SAP: Primeiros Passos
-  
+  ###### <a href="./images/Certificado - SQL Formação Básica.jpg" target="blank"><img src="./images/Certificado - SQL Formação Básica.jpg" width="200" align="center"></a> &nbsp;&nbsp;  SQL Server 2019: Formação Básica
+  ###### <a href="./images/Curso SAP.png" target="blank"><img src="./images/Curso SAP.png" width="200" align="center"></a> &nbsp;&nbsp; SAP: Primeiros Passos
+
 ## Contatos
  
  - Github: [@murilodioliveira](https://github.com/murilodioliveira)
