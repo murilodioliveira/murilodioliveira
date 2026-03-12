@@ -1,35 +1,58 @@
-# Bem vindo(a) ao meu perfil!
- <img src="https://media.licdn.com/dms/image/D4D03AQH2ShJq3l3-9Q/profile-displayphoto-shrink_800_800/0/1708786341367?e=1720051200&v=beta&t=540sZ50FfHyapD9omT5hcu6A1K74Lk3QCGtp0JgfpH4" width=75px>
+# Olá eu sou o Murilo Henrique !
 
-Olá eu sou o Murilo Henrique !
+### Engenheiro Eletricista | Analista de Automação Industrial | Aspirante a Especialista em Segurança OT (ICS)
 
-Sou Engenheiro Eletricista em constante evolução !
+Atualmente focado na convergência entre Automação Industrial e Cibersegurança (OT/ICS), unindo anos de experiência em programação de CLPs com as melhores práticas de defesa de infraestruturas críticas.
 
-Moro em Parauapebas/PA 🌎
+---
 
-## Meus Objetivos
-- Me tornar um Engenheiro de Automação e Controle
+## 🛠️ Tecnologias e Domínios
 
-## Meus hobbies
+**Industrial Automation & PLC:**
 
- - Jogar videogame
- - Formula 1
- - Mecânica
- - Tocar guitarra
- 
-## Atualmente estudando
+![Rockwell Automation](https://img.shields.io/badge/Rockwell-Automation-CC2927?style=flat-square&logo=rockwellautomation&logoColor=white) 
 
-  - <img src="https://img-c.udemycdn.com/course/750x422/3911414_02be_3.jpg" width="100" align="center" style="margin-bottom:5px"/>
-  - <img src="https://i.pinimg.com/originals/82/a2/18/82a2188c985ce75402ae44fc43fe7e5e.png" width="100" align="center" style="margin-bottom:5px"/>
-  - <img src="https://images.convertbox.com/users/1647/33459019906c97427dedeff193ed18ef.JPG" width="100" align="center" style="margin-bottom:5px"/>
-  - <img src="https://portalerp.com/images/2021/03/17/sap-ag-logogif.gif" width="100" align="center" style="margin-bottom:5px"/>   
+**Cybersecurity & Networking:**
 
-## Cursos concluídos
-  ###### <a href="./images/Certificado - SQL Formação Básica.jpg" target="blank"><img src="./images/Certificado - SQL Formação Básica.jpg" width="200" align="center"></a> &nbsp;&nbsp;  SQL Server 2019: Formação Básica
-  ###### <a href="./images/Curso SAP.png" target="blank"><img src="./images/Curso SAP.png" width="200" align="center"></a> &nbsp;&nbsp; SAP: Primeiros Passos
+**Data & Programming:**
 
-## Contatos
- 
- - Github: [@murilodioliveira](https://github.com/murilodioliveira)
- - LinkedIn: [linkedin.com/in/murilodioliveira](linkedin.com/in/murilodioliveira)
- - Email: murilodioliveira@gmail.com
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white) 
+![SQL Server](https://img.shields.io/badge/SQL%20Server-2019-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) 
+
+---
+
+## 🎯 Objetivos de Carreira
+- Especialização em **Segurança de Redes Industriais (OT)** no setor de Oil & Gas.
+- Implementação de frameworks de segurança (NIST, IEC 62443) em ambientes de manufatura.
+- Integração de Python para automação de tarefas e análise de logs em redes industriais.
+
+## 📚 Atualmente Estudando
+- **Básico de Redes:** Foco em protocolos industriais (Modbus, EtherNet/IP).
+- **Segurança de Sistemas de Controle Industrial (ICS/OT):** Treinamento prático via **Labshock**, com foco em defesa de redes industriais, análise de protocolos (Modbus, EtherNet/IP) e mitigação de ameaças em infraestruturas críticas.
+
+## 🎓 Certificações e Formação
+
+### 🛡️ Cibersegurança e Redes
+- **Labshock:** Prática Avançada em Defesa de Infraestruturas Críticas (Em progresso)
+- [**Introdução à Cibersegurança:**](./certs/Cisco-Introduction_to_Cybersecurity.pdf) Formação Básica em Gestão de Dados
+- [**Rede Modbus**](./certs/MIT_Electric-Rede_MODBUS.pdf)
+
+### ⚡ Engenharia e Automação
+- **Bacharel em Engenharia Elétrica**
+- [**Especialista em Automação de Processos Industriais e Robótica**](./certs/Descomplica-Automação_de_Processos_Industriais_e_Robótica.pdf)
+- **Especialista em Programação de CLPs Rockwell** (hands-on)
+
+---
+
+## 🎸 Além da Engenharia
+- Entusiasta de **Fórmula 1** e mecânica automotiva.
+- Guitarrista nas horas vagas.
+- Gamer.
+
+---
+
+## 📫 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/murilodioliveira)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murilodioliveira@gmail.com)
+
