@@ -1,6 +1,6 @@
 # Olá eu sou o Murilo Henrique !
 
-### Engenheiro Eletricista | Analista de Automação Industrial | Aspirante a Especialista em Segurança OT (ICS)
+### Engenheiro de Automação Industrial | Aspirante a Especialista em Segurança OT (ICS)
 
 Atualmente focado na convergência entre Automação Industrial e Cibersegurança (OT/ICS), unindo anos de experiência em programação de CLPs com as melhores práticas de defesa de infraestruturas críticas.
 
